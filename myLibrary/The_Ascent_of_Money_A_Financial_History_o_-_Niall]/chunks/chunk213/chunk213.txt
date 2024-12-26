@@ -1,0 +1,7 @@
+	bl
+
+	Under the Basel I rules agreed in 1988, assets of banks are divided into five categories according to credit risk, carrying risk weights ranging from zero (for example, home country government bonds) to 100 per cent (corporate debt). International banks are required to hold capital equal to 8 per cent of their risk-weighted assets. Basel II, first published in 2004 but only gradually being adopted around the world, sets out more complex rules, distinguishing between credit risk, operational risk and market risk, the last of which mandates the use of value at risk (VaR) models. Ironically, in the light of 2007-8, liquidity risk is combined with other risks under the heading ‘residual risk’. Such rules inevitably conflict with the incentive all banks have to minimize their capital and hence raise their return on equity.
+
+	bm
+
+	In Andrew Lo’s words: ‘Hedge funds are the Galapagos Islands of finance . . . The rate of innovation, evolution, competition, adaptation, births and deaths, the whole range of evolutionary phenomena, occurs at an extraordinarily rapid clip.’

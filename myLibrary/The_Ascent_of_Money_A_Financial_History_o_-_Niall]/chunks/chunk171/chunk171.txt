@@ -1,0 +1,25 @@
+	(1) We assume that the present is a much more serviceable guide to the future than a candid examination of past experience would show it to have been hitherto. In other words we largely ignore the prospect of future changes about the actual character of which we know nothing.
+
+	(2) We assume that the existing state of opinion as expressed in prices and the character of existing output is based on a correct summing up of future prospects . . .
+
+	(3) Knowing that our own individual judgment is worthless, we endeavor to fall back on the judgment of the rest of the world which is perhaps better informed. That is, we endeavor to conform with the behavior of the majority or the average.9
+
+	Though it is far from clear that Keynes was correct in his interpretation of investors’ behaviour, he was certainly thinking along the right lines. For there is no question that the heuristic biases of individuals play a critical role in generating volatility in financial markets.
+
+	This brings us to the second reason for the inherent instability of the financial system: human behaviour. As we have seen, all financial institutions are at the mercy of our innate inclination to veer from euphoria to despondency; our recurrent inability to protect ourselves against ‘tail risk’; our perennial failure to learn from history. In a famous article, Daniel Kahneman and Amos Tversky demonstrated with a series of experiments the tendency that people have to miscalculate probabilities when confronted with simple financial choices. First, they gave their sample group 1,000 Israeli pounds each. Then they offered them a choice between either a) a 50 per cent chance of winning an additional 1,000 pounds or b) a 100 per cent chance of winning an additional 500 pounds. Only 16 per cent of people chose a); everyone else (84 per cent) chose b). Next, they asked the same group to imagine having received 2,000 Israeli pounds each and confronted them with another choice: between either c) a 50 per cent chance of losing 1,000 pounds or b) a 100 per cent chance of losing 500 pounds. This time the majority (69 per cent) chose a); only 31 per cent chose b). Yet, viewed in terms of their payoffs, the two problems are identical. In both cases you have a choice between a 50 per cent chance of ending up with 1,000 pounds and an equal chance of ending up with 2,000 pounds (a and c) or a certainty of ending up with 1,500 pounds (b and d). In this and other experiments, Kahneman and Tversky identify a striking asymmetry: risk aversion for positive prospects, but risk seeking for negative ones. A loss has about two and a half times the impact of a gain of the same magnitude.10
+
+	This ‘failure of invariance’ is only one of many heuristic biases (skewed modes of thinking or learning) that distinguish real human beings from the homo oeconomicus of neoclassical economic theory, who is supposed to make his decisions rationally, on the basis of all the available information and his expected utility. Other experiments show that we also succumb too readily to such cognitive traps as:
+
+	1. Availability bias, which causes us to base decisions on information that is more readily available in our memories, rather than the data we really need;
+
+	2. Hindsight bias, which causes us to attach higher probabilities to events after they have happened (ex post) than we did before they happened (ex ante);
+
+	3. The problem of induction, which leads us to formulate general rules on the basis of insufficient information;
+
+	4. The fallacy of conjunction (or disjunction), which means we tend to overestimate the probability that seven events of 90 per cent probability will all occur, while underestimating the probability that at least one of seven events of 10 per cent probability will occur;
+
+	5. Confirmation bias, which inclines us to look for confirming evidence of an initial hypothesis, rather than falsifying evidence that would disprove it;
+
+	6. Contamination effects, whereby we allow irrelevant but proximate information to influence a decision;
+
+	7. The affect heuristic, whereby preconceived value-judgements interfere with our assessment of costs and benefits;
