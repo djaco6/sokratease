@@ -68,6 +68,9 @@ class ChunkViewer:
                                                   state='disabled')
         self.text_area.pack(fill='both', expand=True, padx=5, pady=5)
         
+        # Configure text formatting tags
+        self.text_area.tag_configure('bold_quote', font=('Arial', 11, 'bold'), background='lightyellow')
+        
         # Right side: Questions
         question_frame = tk.LabelFrame(main_frame, text="Questions", font=('Arial', 10, 'bold'))
         question_frame.pack(side='right', fill='both', expand=True, padx=(5, 0))
@@ -281,6 +284,8 @@ class ChunkViewer:
             self.text_area.config(state='normal')
             self.text_area.delete(1.0, tk.END)
             self.text_area.insert(1.0, content)
+            # Clear any existing highlighting
+            self.text_area.tag_remove('bold_quote', 1.0, tk.END)
             self.text_area.config(state='disabled')
             
         except Exception as e:
@@ -389,6 +394,8 @@ class ChunkViewer:
             self.show_question_without_answer()
             self.show_answer_btn.config(text="Show Answer")
             self.answer_shown = False
+            # Remove highlighting from chunk text
+            self.remove_text_highlighting()
         else:
             # Show full content including answer
             self.question_area.config(state='normal')
@@ -397,6 +404,8 @@ class ChunkViewer:
             self.question_area.config(state='disabled')
             self.show_answer_btn.config(text="Hide Answer")
             self.answer_shown = True
+            # Highlight quoted evidence in chunk text
+            self.highlight_quoted_evidence()
     
     def previous_question(self):
         if self.current_question_index > 0:
@@ -483,6 +492,89 @@ class ChunkViewer:
         except Exception as e:
             self.root.config(cursor="")
             messagebox.showerror("Error", f"Error generating question: {e}")
+
+    def extract_quoted_evidence(self):
+        """Extract quoted evidence from the question content."""
+        if not self.current_question_content:
+            return []
+        
+        quotes = []
+        lines = self.current_question_content.split('\n')
+        
+        # Look for quoted text in the answer section
+        in_answer_section = False
+        for line in lines:
+            line_stripped = line.strip()
+            line_lower = line_stripped.lower()
+            
+            # Check if we've reached the answer section
+            if 'answer' in line_lower and (line_lower.startswith('answer') or '**answer' in line_lower):
+                in_answer_section = True
+                continue
+            
+            # If we're in the answer section, look for quoted text
+            if in_answer_section and line_stripped:
+                # Look for text in quotes (various quote styles)
+                import re
+                quote_patterns = [
+                    r'"([^"]+)"',                    # Double quotes
+                    r'"([^"]+)"',                    # Smart double quotes
+                    r'['']([^'']+)['']',             # Smart single quotes
+                    r"'([^']+)'",                    # Regular single quotes
+                ]
+                
+                for pattern in quote_patterns:
+                    matches = re.findall(pattern, line_stripped)
+                    for match in matches:
+                        # Clean up the quote (remove extra whitespace)
+                        cleaned_quote = ' '.join(match.split())
+                        if len(cleaned_quote) > 10:  # Only consider substantial quotes
+                            quotes.append(cleaned_quote)
+        
+        return quotes
+
+    def highlight_quoted_evidence(self):
+        """Highlight quoted evidence in the chunk text area."""
+        quotes = self.extract_quoted_evidence()
+        
+        if not quotes:
+            return
+        
+        # Get the current chunk text
+        self.text_area.config(state='normal')
+        chunk_text = self.text_area.get(1.0, tk.END)
+        
+        # Find and highlight each quote
+        for quote in quotes:
+            # Find all occurrences of the quote in the text
+            start_idx = 0
+            while True:
+                # Search for the quote (case-insensitive)
+                pos = chunk_text.lower().find(quote.lower(), start_idx)
+                if pos == -1:
+                    break
+                
+                # Convert character position to tkinter text position
+                lines_before = chunk_text[:pos].count('\n')
+                chars_in_line = pos - chunk_text.rfind('\n', 0, pos) - 1
+                if chars_in_line < 0:
+                    chars_in_line = pos
+                
+                start_pos = f"{lines_before + 1}.{chars_in_line}"
+                end_pos = f"{lines_before + 1}.{chars_in_line + len(quote)}"
+                
+                # Apply highlighting
+                self.text_area.tag_add('bold_quote', start_pos, end_pos)
+                
+                start_idx = pos + 1
+        
+        self.text_area.config(state='disabled')
+
+    def remove_text_highlighting(self):
+        """Remove all text highlighting from the chunk text area."""
+        self.text_area.config(state='normal')
+        self.text_area.tag_remove('bold_quote', 1.0, tk.END)
+        self.text_area.config(state='disabled')
 
 def main():
     root = tk.Tk()

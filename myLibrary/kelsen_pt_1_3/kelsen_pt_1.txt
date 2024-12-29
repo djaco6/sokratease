@@ -1,0 +1,366 @@
+WHAT IS THE PURE THEORY OF LAW?
+HANS KELSENt
+The Pure Theory of Law is, as its name indicates, a theory of
+law. The way in which a theory is elaborated is determined by its
+object. In order to apprehend the peculiarity of a theory of law,
+we must know the nature of its object; we must, first of all, answer
+the question as to what is law.
+Although the theory of law - or, as it is. usually called, jurisprudence
+- is one of the oldest sciences, there is no generally accepted
+definition of the concept of law. There are two different
+views concerning this object. According to the one, law is a fact,
+a definite behavior of men, which takes place in time and space
+and can be perceived by our senses. Facts are the object of the natural
+sciences: physics, chemistry, biology, psychology, sociology.
+Hence, according to this view of the law, jurisprudence does not
+essentially differ from these natural sciences. Just as these sciences,
+jurisprudence describes its object in statements to the effect
+that something is or is not, that is to say: in is-statements. According
+to the other view, law is not a fact, but a norm. A norm is a
+rule whose meaning is that something ought to be or to be done,
+even if actually it is not, or is not done. A norm has the character
+of a command or prescription and is usually expressed linguistically
+in an imperative, as, e.g., the Ten Commandments God issued
+on Mount Sinai: "Honor your father and mother," "You shall not
+kill," and so on. A norm may have not only the character of a
+command but also the character of an authorization; by a norm a
+person may confer upon another person the power or capacity of
+issuing commands. God authorized Moses to issue commands to the
+Jewish people; God conferred upon him the authority of a legislator.
+The constitution of a state authorizes a certain individual
+or a body of individuals to issue statutes - general norms - and
+statutes authorize courts and administrative organs to issue individual
+norms - judicial decisions and administrative commands.
+Finally, a norm may have the character of a permission, that is to
+say, by a norm a person may be allowed to do something which
+without that permission is forbidden. For example, a general norm
+forbids killing, but by a special norm, restricting the first one, it is
+permitted as self-defense. These are the three functions of a norm:
+command or prescription; authorization; permission. If we say
+that a norm is a rule whose meaning is that something ought to be
+done, the term "ought" covers the meaning of all the three functions;
+it indicates the normative function.
+The specific meaning of the statement that something ought to
+be or to be done can be determined only by ref erring to the differtProfessor
+Emeritus, University of California, Berkeley.
+HeinOnline -- 34 Tul. L. Rev. 269 1959-1960ence which exists between this statement and the statement that
+something is or is done. Of this difference we are immediately and
+directly aware. The logical dualism of the "ought" and the "is"
+implies the impossibility of inferring from the statement that something
+ought to be or to be done, the statement that something is or
+is done, and vice versa.
+We are aware of the "ought" as of something different from
+the "is" if the former is the meaning of an act of an individual
+intentionally directed at the behavior of another individual. If, for
+instance, A commands B to do something, we describe the act by
+the statement that A wills that B do something. This is an is-statement.
+But the meaning of the act can be described only by the
+statement that B ought to do something, not by an is-statement
+such as that B does or will do what A commands. That B ought to
+do something is the subjective meaning of the act of command; the
+meaning the act has from the point of view of the commanding
+individual. But it is not necessarily also the objective meaning of
+the act of command, that is the meaning the act has from the point
+of view of the addressee and of a third person not concerned. That
+B ought to do something is considered to be also the objective
+meaning of the act of command if this act is authorized. Then, its
+meaning is called a norm. To the question as to the difference between
+the subjective and objective meaning of acts prescribing a
+certain behavior, we shall return later.
+According to the Pure Theory of Law, law is norm, or, more
+exactly, a set of norms, a normative order. Since a normative order
+is the object of jurisprudence, and the meaning of norms is that
+something ought to be done, that men ought to behave in a certain
+way, jurisprudence can describe its object not as natural sciences
+describe their object- in is-statements - but only in ought-statements.
+To the question as to what is the law in a certain matter,
+as for example, with respect to theft or murder, the answer is not
+that if a man commits theft or murder he is or will be punished,
+but that he ought to be punished because the law exists - and that
+means : the law is valid - even when in a concrete case a thief or
+murderer actually is not punished, because, for example, he has
+escaped punishment. If in a textbook of the criminal law of California
+a statement were made that a man who commits theft or
+murder is or will be punished, such a statement would be false
+because, unfortunately, there are in California some cases in which
+- exceptionally- a murderer is not punished. But the law is that
+a murderer in all cases ought to be punished.
+When the legal authority uses in the norm issued by it the term
+"ought" - for example, a thief ought to be punished, a civil execution
+ought to be directed against the property of a debtor who does
+HeinOnline -- 34 Tul. L. Rev. 270 1959-19601960] LEGAL PHILOSOPHY 271
+not repay his debt-this term has a prescriptive meaning. As a
+prescription or command, a norm is neither true nor false, but valid
+or not valid. However, the same term has a descriptive meaning
+when it is used by legal science in a statement affirming the validity
+of a legal norm. Such a statement may be true or false. Only
+the legal authority can prescribe; legal science can only describe
+what the legal authority prescribes.
+Although the principles of logic, such as the law of contradiction
+and the rules of inference, apply only to statements which can
+be true or false, they are indirectly applicable also to legal norms,
+insofar as statements about norms, statements affirming the existence,
+that is, the validity, of legal norms are subjected to these
+principles. Two statements of which one affirms the validity of a
+norm prescribing that men ought to behave in a certain way, and
+the other the validity of a norm prescribing that men ought not to
+behave in this way, contradict each other, just as two statements of
+which the one affirms that something is, and the other that it is
+not. If the one is true the other must be false. Two conflicting
+norms can be described as valid norms only by statements which
+contradict each other. In this sense we may say of conflicting
+norms that they "contradict" each other. Consequently two conflicting
+norms cannot be considered to be valid at the same time.
+Thus the science of law conceives of its object as a logical unit: a
+system of noncontradictory norms.
+Although law is a norm, not a fact, there is nevertheless an
+essential relationship between norm and fact. The norm is - as
+pointed out - the meaning of a fact, the fact by which the norm is
+established. The fact by which a norm is established or, metaphorically
+speaking, created, is the act of an individual or a series
+of such acts intentionally directed at the behavior of another. If it
+is a legislative act or custom, it is a general norm. If it is a judicial
+or administrative act, it is an individual norm. The norm-creating
+act is a fact which exists in time and space and can be perceived by
+our senses. This fact can be described in an is-statement. But this
+fact is different from its meaning - that is, the norm - which is
+the object of jurisprudence, and which cannot be described in an isstatement,
+but only in an ought-statement. It is true that jurisprudence
+refers also to the procedure by which the legal norms are
+created; but only insofar as this procedure is prescribed or authorized
+by legal norms. The law regulates its own creation. Only the
+norms that prescribe or authorize the norm-creating acts are the
+object of jurisprudence. Jurisprudence deals with the legislative
+process only insofar as that process is determined in the constitution,
+and with the judicial and administrative processes only insofar
+as they are determined in statutes or rules of customary law.
+HeinOnline -- 34 Tul. L. Rev. 271 1959-1960272 TULANE LAW REVIEW [Vol. XXXIV
+The constitution, the statutes, the customary law are norms, and
+only as such the object of jurisprudence.
+That a legal norm, in order to exist - and that means: in ·order
+to be valid- must be created by an act, which is a fact existing
+in time and space, is not the only relationship between norm and
+fact. A norm may or may not be obeyed and applied by a certain
+human behavior which actually takes place in time and space. A
+legal order as a whole and the particular legal norms which form
+this legal order are to be considered vaiid only if they are, by and
+large, obeyed and applied, only if they are effective. But their
+validity must not be confused with their effectiveness. Effectiveness
+is merely a condition of, but not identical with, validity. A
+legal norm may be valid before it becomes effective. When a statute
+is applied by a court for the first time after its adoption by the
+legislative organ, hence before the statute could become effective,
+the court applies a valid law; it can apply the law only if the law
+is valid. But the statute loses its validity if it has not become, or
+when it ceases to be, effective. The fact that a legal norm becomes
+effective must be added to the fact that it is created by an act;
+otherwise it can no longer be considered as valid. But just as the
+act by which the norm is created is not identical with the norm -
+which is the meaning of this act - the effectiveness of a legal norm
+is not identical with its validity.
+The doctrine which defines law as a fact is based on the erroneous
+identification of the norm with the act whose meaning the
+norm is, and of the validity of the norm with its effectiveness. By
+avoiding this erroneous identification, the Pure Theory of Law
+separates jurisprudence, describing norms in ought-statements,
+from natural science describing facts in is-statements. This is the
+first reason that it is called a "pure" theory of law. The second
+reason is that it separates jurisprudence from ethics. The science
+of ethics describes norms, as does jurisprudence, but the norms described
+by ethics are not legal norms, but rather moral norms. The
+difference between legal and moral norms consists in that the former
+prescribe a certain behavior by attaching to the contrary behavior
+a coercive act as a sanction. A sanction is a forcible deprivation
+of life, freedom, property, or other values, as a reaction
+against a behavior considered by the legal authority as harmful to
+society. Law forbids murder, theft and the like by prescribing that
+if someone commits murder or theft, he ought to be punished by
+capital punishment or imprisonment. Law commands payment of
+one's debts by prescribing that if a person does not pay his debts,
+civil execution ought to be directed against his property. By attaching
+a sanction to a certain behavior, law qualifies this behavior
+HeinOnline -- 34 Tul. L. Rev. 272 1959-19601960] LEGAL PHILOSOPHY 273
+as a delict, as illegal, and makes the contrary behavior the content
+of a legal obligation. In this sense, law is a coercive order. Moral
+norms too, forbid or command a certain behavior, and some of
+them prescribe the same behavior as law, but without attaching to
+the contrary behavior a coercive act as a sanction. A moral order
+is a normative, but not a coercive order.
+Insofar as moral norms are created by acts of human beings,
+by the founder of a religion, such as Moses, Jesus or Mohammed,
+or by custom, there are many different moral orders, valid at different
+times within different societies. Then the moral value has
+only a relative character. A definite legal order may or may not
+correspond to a certain moral order; but the validity of the legal
+order does not depend on its correspondence to a moral order. It
+may, from the point of view of a certain moral order, be considered
+as morally good or morally bad. That a legal order is morally good,
+means that it is just; that a legal order is morally bad, means that
+it is unjust. As a matter of fact, each legal order corresponds more
+or less to a definite moral order prevailing within a ruling group
+whose interests determine the law-creating process; and hence is
+considered, from the point of view of this moral order, as just. But
+at the same time it may be more or less contrary to a moral order
+prevailing within other groups, even of the same society for which
+the legal order is valid. Hence law must be distinguished from
+justice. A statement about the law must not imply any judgment
+about the moral value of the law, about its justice or injustice;
+which, of course, does not exclude the postulate that the law should
+be just. However, since there are not one justice, but many different
+and even contradictory ideals of justice, the postulate should
+never be raised without specifying which of these many justices is
+meant. Exactly as the Pure Theory of Law separates law from
+nature and thus jurisprudence from natural science, it separates
+law from morals, and thus jurisprudence from ethics. In these two
+respects it is a "pure" theory of law.
+The Pure Theory of Law is a theory of positive law. Positive
+law is a coercive order whose norms are created by acts of human
+beings - by legislative, judicial or administrative agencies, or by
+custom constituted by acts of human beings. Legislative, judicial,
+and administrative agencies are human beings in their capacity
+as organs of the state. In so far as the law is created by these
+agencies, we say that the law is created by the state. We interpret
+the law-creating acts of definite human beings as "acts of state" ;
+we attribute the function actually performed by a definite human
+being to the state. But, what is the state, and what is its relation
+to the law? The Pure Theory of Law shows that an act performed
+by a human being is interpreted as act of state only if this act is
+HeinOnline -- 34 Tul. L. Rev. 273 1959-1960274 TULANE LAW REVIEW [Vol. XXXIV
+determined in a specific way by the legal order; that to attribute
+the performance of this law-creating act to the state means to refer
+the act to the legal order by which the act is determined; that the
+state as an acting person creating the law is nothing else but the
+personification of the legal order which regulates its own creation;
+and that a state as a social order or political organization is this
+coercive order we call law; that a state imagined as a real being
+different from the law is the hypostatization of this relatively centralized
+legal order, or of its personification. Thus the Pure Theory
+of Law dissolves the misleading dualism of state and law prevailing
+in the traditional legal and political theory.
+The Pure Theory of Law takes into consideration only positive
+law, norms created by acts of human beings. It does not take into
+consideration norms emanating from other, i.e., superhuman authorities.
+Therefore it excludes from the province of jurisprudence
+any divine law, i.e., law supposed to be created by God or a godlike
+entity. Consequently it excludes also so-called natural law, law
+which- according to the natural-law doctrine - is immanent in
+nature. Law - meaning norms regulating human behavior - can
+be immanent in nature only if nature is considered to be a legislator.
+To consider nature as a legislator implies to attribute a will to
+nature. This is either an animistic superstitution or a theological
+interpretation of nature, based on the belief that nature is created
+by God and hence a manifestation of God's absolutely good will.
+This is a metaphysical assumption incompatible with any scientific
+cognition and hence also with a science of law.
+The same objection applies to that version of the natural-law
+doctrine which pretends to find the just norms of human behavior
+in the nature of man, particularly in his reason. Reason is the
+faculty of cognition. By our reason we are able to know, to understand
+or comprehend something which is given as an object of
+cognition, independently of this mental operation. To set a norm,
+to prescribe something, is a function of will, and human will is a
+psychic phenomenon totally different from human reason. Human
+reason can know norms after they have been created by acts of
+human will, but it cannot create norms. Only in God may reason
+and will be considered to coincide; only of God can people believe
+that knowing what ought to be is identical with willing that it
+ought to be. It is the old myth of the tree of knowledge: when men
+eat of the fruit of this tree, they will be like God, knowing good
+and evil. To God, knowing good and evil is the same as commanding
+the good and forbidding the evil. Only if the reason of man, as
+a being created by God in His own image, is part of the divine reason,
+can it be considered to be at the same time a norm-creating
+will, a so-called "practical reason." This self-contradictory notion,
+HeinOnline -- 34 Tul. L. Rev. 274 1959-19601960] LEGAL PHILOSOPHY 275
+which is the basis of a law of reason, is of theological origin.
+In opposition to a theological or natural law doctrine the Pure
+Theory of Law, as a positivistic theory, does not see the reason for
+the validity of positive law in a divine or natural order, different
+from and above the positive law. It rejects the view that a positive
+law is valid only if its content corresponds to a divine or natural
+order, i.e., valid only if the positive law is just. It considers every
+positive law - every coercive order which is established by acts
+of human beings and is by and large effective - as valid, without
+regard to its justice or injustice. The question of the reason for
+the validity of positive law - the question why the norms of any
+coercive order ought to be obeyed and applied - is, according to
+the Pure Theory of Law, to be understood as the following question:
+What is the logical condition under which the subjective
+meaning of the law-creating acts - that men ought to behave in a
+certain way - can be interpreted as their objective meaning? In
+answering this question we must be aware that it is logically impossible
+to infer from the statement that something is or is done,
+the statement that something ought to be or to be done, just as
+it is logically impossible to inf er from the statement that something
+ought to be or to be done, the statement that something is or
+is done. This logical principle applies also to the fact of an act of
+will whose subjective meaning is that something ought to be done.
+From the fact that an individual commands that another individual
+ought to behave in a certain way, it does not follow that the other
+individual ought to behave in this way. It does not follow from the
+subjective meaning of the act of command that the meaning of the
+act is an objectively valid norm, disobedience to which would constitute
+something wrong. If a gangster commands that another
+person pay him a certain sum of money, we do not assume that
+this individual ought to obey the command and that, if he does not
+obey, he commits something wrong. A norm cannot be deduced
+from a fact; it can be deduced only from a norm. Hence the reason
+for the validity of a judicial decision or an administrative command
+is not the fact that a judge has actually rendered the decision,
+or an administrative organ has actually issued the command,
+but the statute authorizing the judge to render decisions and the
+administrative organ to issue commands. The reason for the validity
+of statutes is the constitution, authorizing an individual or a
+body of individuals to issue statutes. If it is historically a first
+constitution, and if the reason for the validity of this constitution
+cannot- from the point of view of a positivistic theory of law -
+be considered to be a superior order created by a divine, superhuman
+will, authorizing a certain individual or a body of individuals
+to establish the constitution, the reason for the validity of the con-
+HeinOnline -- 34 Tul. L. Rev. 275 1959-1960276 TULANE LAW REVIEW [Vol. XXXIV
+stitution and hence of the statutes, judicial decisions, and administrative
+commands established on the basis of the constitution can
+only be a norm we presuppose, if we are to interpret the acts whose
+subjective meaning the constitution, the statutes, the judicial decisions,
+the administrative commands are, as objectively valid
+norms. A norm is presupposed according to which men ought to
+behave in conformity with the constitution, hence in conformity
+with the general norms issued on the basis of the constitution by
+legislation or custom and, finally, in conformity with the individual
+norms issued on the basis of statutes or customary law by judicial
+and administrative acts; that is to say, in conformity with the legal
+order in its hierm<r:hicai structure. This norm, which is not a positive
+norm - not a norm created by an act of human or superhuman
+will, but only presupposed in juristic thiIJJdng - is the reason for
+the validity of a positive legal order. It is called the basic norm. Its
+presupposition is the condition under which every coercive order
+established by acts of human beings and by and large effective, may
+be interpreted as a system of objectively valid norms.
+This presupposition is possible but not necessary. If the basic
+norm is not presupposed, a coercive order established by acts of
+human beings and by and large effective cannot be interpreted as
+a system of valid norms, but only as an aggregate of commands;
+and the relations constituted by such an order cannot be interpreted
+as legal relations, that is, as obligations, rights, competences and
+the like, but only as power relations. Thus the Pure Theory of Law,
+by ascertaining the basic norm as the logical condition under which
+a coercive order may be interpreted as valid positive law, furnishes
+only a conditional, not a categorical, foundation of the validity of
+positive law. Since the basic norm refers to a definite coercive
+order established by definite acts of human beings and by and
+large effective at a definite time and within a definite space, there
+is no choice between different basic norms. Only a basic norm referring
+to such a coercive order can be presupposed.
+According to the Pure Theory of Law the basic norm may be
+presupposed with reference to every coercive order established by
+acts of human beings and by and large effective, whatever its content
+may be, that is to say, without regard to its justice or injustice.
+This theory does not aim at a moral or political justification
+of positive law. As a science of positive law, it refuses on principle
+to evaluate its object as just or unjust; it is unable to furnish
+a firm, an absolute, standard for evaluation. Those who expect
+such standard from jurisprudence may consider a positivistic theory
+of law in general and the Pure Theory of Law in particular as
+unsatisfactory. But their expectation can be fulfilled only by theological
+speculation: by metaphysics, not by science of law.
+HeinOnline -- 34 Tul. L. Rev. 276 1959-1960

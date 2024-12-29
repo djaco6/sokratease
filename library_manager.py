@@ -139,9 +139,41 @@ class LibraryManager:
             # Clean up the paragraph (remove extra whitespace, preserve single line breaks)
             cleaned_para = re.sub(r'\s+', ' ', para.strip())
             if cleaned_para:  # Only add non-empty paragraphs
-                # Add tab at the beginning
-                formatted_para = f"\t{cleaned_para}"
-                formatted_paragraphs.append(formatted_para)
+                # Check if this paragraph is too long for a chunk
+                para_word_count = len(cleaned_para.split())
+                
+                if para_word_count > chunk_size * 1.5:  # If paragraph is significantly larger than chunk size
+                    # Split long paragraph into sentences for better chunking
+                    sentences = re.split(r'(?<=[.!?])\s+', cleaned_para)
+                    
+                    current_section = []
+                    current_section_words = 0
+                    
+                    for sentence in sentences:
+                        sentence_words = len(sentence.split())
+                        
+                        if current_section_words + sentence_words > chunk_size and current_section:
+                            # Save current section as a formatted paragraph
+                            section_text = ' '.join(current_section)
+                            formatted_para = f"\t{section_text}"
+                            formatted_paragraphs.append(formatted_para)
+                            
+                            # Start new section
+                            current_section = [sentence]
+                            current_section_words = sentence_words
+                        else:
+                            current_section.append(sentence)
+                            current_section_words += sentence_words
+                    
+                    # Add the last section if it has content
+                    if current_section:
+                        section_text = ' '.join(current_section)
+                        formatted_para = f"\t{section_text}"
+                        formatted_paragraphs.append(formatted_para)
+                else:
+                    # Add tab at the beginning for normal-sized paragraphs
+                    formatted_para = f"\t{cleaned_para}"
+                    formatted_paragraphs.append(formatted_para)
         
         if not formatted_paragraphs:
             raise ValueError("No paragraphs found in the text")
